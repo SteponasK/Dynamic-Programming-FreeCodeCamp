@@ -1,6 +1,7 @@
 # FreeCodeCamp Dynamic Programming 
 
-## 🧑‍💻 What it Dynamic Programming
+
+## 🧑‍💻 What is Dynamic Programming
 - Dynamic Programming is a method used in __mathematics__ and __computer science__ to __solve complex problems__ by breaking them down into simpler subproblems.
 - By solving each subproblem only once and storing the results, it avoids redundant computations, leading to more __efficient solutions__ for a __wide range of problems__.
 
